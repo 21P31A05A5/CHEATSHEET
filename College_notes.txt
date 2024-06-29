@@ -1,0 +1,99 @@
+
+BUBBle Sort
+Merge sort
+Quick sort
+Heap Sort
+
+Binary Search
+Breadth-First Search(BFS)
+Depth-First Search(DFS)
+
+Bubble sort
+Selection sort
+Insertion sort
+Quick sort
+Merge sort
+Radix sort
+Comb sort
+Bucket sort
+Shell sort
+Counting sort
+Codingwithsagar
+
+
+4. Recursion Algorithm:
+- Recursion is a problem-solving technique in which
+the solution is dependent on solutions
+to smaller instances of the same problem.
+Divide and Conquer:
+The Divide and Conquer algorithm consists of a
+dispute using the three steps listed below.
+Divide the original problem into sub-problems.
+Conquer: Solve each sub-problem one at a time,
+ecursively
+Combine: Put the solutions to the sub-problems
+ogether to get the solution to the whole problem.
+
+The most important algorithms and data structures every programmer should know
+- - Sort Algorithms
+--Search Algorithms
+- Hashing
+-Dynamic Programming
+- Exponentiation by squaring
+- String Matching and Parsing
+- Primality Testing Algorithms
+
+3 YouTube channels that will save your life when
+learning how to CODE
+Bro Code
+Alex Lee
+Programming With Mosh
+
+Websites to Learn Technologies These
+HTML html.com
+CSS CSS-tricks.com
+JAVASCRIPT javascript.info
+PHP php.net
+BOOTSTRAP getbootstrap.com
+REACT react-tutorial.app
+ALGORITHMS algorithm-visualizer.org
+API rapidapi.com/learn
+Git & GitHub learngitbranching.js.org
+MySQL MySQL.com
+
+
+1- Hangman game project
+2- Rock Paper Scissors gam
+3- Dice Rolling Simulator
+4- Email Slicer Project
+Mad Libs Generator
+6- Message Encode Decode
+7- Magic 8 Ball Game
+8- Target Practice Game
+9- Alarm Clock with GUI
+10- Binary Search Algorith
+
+
+Learn These
+Before its too latee
+Personal Grooming
+Soft skills
+Marketing/
+Personal Branding
+Networking
+¯Money Management
+Being Self Sufficient
+Risk Management
+
+link - https://infyspringboard.uk.onwingspan.com/
+
+step 1: Open the Website, Infosys Springboard
+Step 2•flick pn the Explore button for more free
+•Infosys courses
+Step 3: If you want certified, click on the search icon
+fa•and find the certification Menu.rs1Contacts
+Step 4: Select your certification and complete the
+Pcourse video/lectures.
+Step 8.1 Äfté/ébhpleting the course, Mark on course
+completion.
+Step 6'Fnf8Vi98u're now Infosys Certified.
